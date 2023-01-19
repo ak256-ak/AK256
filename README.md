@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @ak
-- 👀 I’m interested in CyberSecurity and Computer Science 
-- 🌱 I’m currently learning C and Cloud Computing
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
